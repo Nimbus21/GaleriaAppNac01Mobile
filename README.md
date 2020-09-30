@@ -1,0 +1,1 @@
+# GaleriaAppNac01Mobile
