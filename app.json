@@ -1,0 +1,17 @@
+{
+  "name": "galeriaExpo",
+  "displayName": "galeriaExpo",
+  "expo": {
+    "name": "galeriaExpo",
+    "slug": "galeriaExpo",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
